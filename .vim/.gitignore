@@ -1,0 +1,10 @@
+my_configs.vim
+*.swp
+*.pyc
+*.classpath
+.*.swp
+*.project
+.pydevproject
+.netrwhist
+.settings/
+temp/
